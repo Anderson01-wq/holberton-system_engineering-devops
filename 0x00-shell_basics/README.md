@@ -11,3 +11,6 @@ Lists all the files using the long format.
 
 # 4-listmorefile
 Lists all files including hidden files using the long format.
+
+# 5-listfilesdigitonly
+Lists only files that start with a number.
