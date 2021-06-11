@@ -14,3 +14,6 @@ Lists all files including hidden files using the long format.
 
 # 5-listfilesdigitonly
 Lists only files that start with a number.
+
+# 6-firstdirectory
+Creates a directory in the /tmp/
