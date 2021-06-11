@@ -9,3 +9,5 @@ Takes the user back his own directory.
 # 3-listfiles
 Lists all the files using the long format.
 
+# 4-listmorefile
+Lists all files including hidden files using the long format.
