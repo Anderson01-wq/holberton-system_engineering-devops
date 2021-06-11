@@ -18,6 +18,6 @@ Lists only files that start with a number.
 # 6-firstdirectory
 Creates a directory in the /tmp/
 
-# 6-movethatfile
+# 7-movethatfile
 Moves the file betty to /tmp/
 
