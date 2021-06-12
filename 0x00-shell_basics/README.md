@@ -21,3 +21,5 @@ Creates a directory in the /tmp/
 # 7-movethatfile
 Moves the file betty to /tmp/
 
+# 10-back
+Takes the user to the previous directory.
